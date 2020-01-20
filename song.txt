@@ -1,2 +1,4 @@
 Hello world
 Hello world
+Good bye
+Good bye
